@@ -1,0 +1,7 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "/usr/local/lib/**/*.jar"
+  ],
+  "java.jdt.ls.vmargs":"-Dlog.level=ALL"
+}
