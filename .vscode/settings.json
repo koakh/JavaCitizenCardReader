@@ -1,7 +1,8 @@
 {
   "java.project.referencedLibraries": [
     "lib/**/*.jar",
+    // "/usr/local/lib/pteid_jni/pteidlibj.jar",
     "/usr/local/lib/**/*.jar"
   ],
-  "java.jdt.ls.vmargs":"-Dlog.level=ALL"
+  "java.jdt.ls.vmargs":"-Dlog.level=ALL"   
 }

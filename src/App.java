@@ -1,6 +1,6 @@
 import pt.gov.cartaodecidadao.*;
 
-class Main {
+public class App {
 
   static {
     try {
