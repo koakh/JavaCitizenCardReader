@@ -1,8 +1,8 @@
 # README
 
-Portuguese Citizen Card reader Project
+Portuguese Citizen Card reader Project with Armbian 20.10 Arm-64 focal current_5.9.0
 
-- Notes: '/home/mario/Dropbox/Aplicativos/Notable/notes/Armbian : MagicSee N4.md'
+- Notes: '/home/mario/Dropbox/Aplicativos/Notable/notes/Armbian : TX9 Pro and MagicSee.md'
 
 ## Getting Started
 
