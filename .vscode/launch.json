@@ -9,7 +9,7 @@
       "name": "Launch Current File",
       "request": "launch",
       "mainClass": "${file}",
-      // after install .deb libs will be here /usr/local/lib
+      // after install libs will be here /usr/local/lib
       "vmArgs": "-Djava.library.path=/usr/local/lib"
     }
   ]
