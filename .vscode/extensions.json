@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "fabiospampinato.vscode-todo-plus",
+    "vscjava.vscode-maven",
+    "vscjava.vscode-java-debug",
+    "vscjava.vscode-java-pack",
+    "redhat.java",
+  ]
+}

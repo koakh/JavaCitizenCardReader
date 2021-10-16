@@ -8,6 +8,7 @@
       "type": "java",
       "name": "Launch Current File",
       "request": "launch",
+      // this will use open file
       "mainClass": "${file}",
       // after install libs will be here /usr/local/lib
       "vmArgs": "-Djava.library.path=/usr/local/lib"
