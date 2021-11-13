@@ -45,6 +45,8 @@ public class App {
           card = context.getEIDCard();
           System.out.println(card.isActive());
 
+          context.SetEventCallback(new CardEventsCallback(), null);
+
           if (card.isActive()) {
             PTEID_EId eid = card.getID();
             Citizen citizen = new Citizen(eid);
